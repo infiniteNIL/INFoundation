@@ -1,0 +1,443 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DC9CB4FE1299BA3F00F72D93 /* NSDate+INF.m in Sources */ = {isa = PBXBuildFile; fileRef = DC9CB4FD1299BA3F00F72D93 /* NSDate+INF.m */; };
+		DC9CB5061299BAC600F72D93 /* NSString+INF.m in Sources */ = {isa = PBXBuildFile; fileRef = DC9CB5051299BAC600F72D93 /* NSString+INF.m */; };
+		DC9CB50B1299BB0400F72D93 /* NSArray+INF.m in Sources */ = {isa = PBXBuildFile; fileRef = DC9CB50A1299BB0400F72D93 /* NSArray+INF.m */; };
+		DC9CB5311299C37500F72D93 /* array_spec.rb in Resources */ = {isa = PBXBuildFile; fileRef = DC9CB5301299C37500F72D93 /* array_spec.rb */; };
+		DC9CB56A1299CF5B00F72D93 /* NSArray+INF.h in Headers */ = {isa = PBXBuildFile; fileRef = DC9CB5091299BB0400F72D93 /* NSArray+INF.h */; };
+		DC9CB56B1299CF5B00F72D93 /* NSArray+INF.m in Sources */ = {isa = PBXBuildFile; fileRef = DC9CB50A1299BB0400F72D93 /* NSArray+INF.m */; };
+		DC9CB56C1299CF5B00F72D93 /* NSDate+INF.h in Headers */ = {isa = PBXBuildFile; fileRef = DC9CB4FC1299BA3F00F72D93 /* NSDate+INF.h */; };
+		DC9CB56D1299CF5B00F72D93 /* NSDate+INF.m in Sources */ = {isa = PBXBuildFile; fileRef = DC9CB4FD1299BA3F00F72D93 /* NSDate+INF.m */; };
+		DC9CB56E1299CF5B00F72D93 /* NSString+INF.h in Headers */ = {isa = PBXBuildFile; fileRef = DC9CB5041299BAC600F72D93 /* NSString+INF.h */; };
+		DC9CB56F1299CF5B00F72D93 /* NSString+INF.m in Sources */ = {isa = PBXBuildFile; fileRef = DC9CB5051299BAC600F72D93 /* NSString+INF.m */; };
+		DC9CB57B129A2CDD00F72D93 /* INFoundation.h in Headers */ = {isa = PBXBuildFile; fileRef = DC9CB57A129A2CDD00F72D93 /* INFoundation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC9CB5A6129A31F200F72D93 /* Macros.h in Headers */ = {isa = PBXBuildFile; fileRef = DC9CB5A5129A31F200F72D93 /* Macros.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DC9CB5731299CFBD00F72D93 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DCA750B51291BAC8009662F2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DC9CB5631299CE3D00F72D93 /* INFoundation */;
+			remoteInfo = INFoundation;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DC9CB4FC1299BA3F00F72D93 /* NSDate+INF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSDate+INF.h"; path = "src/NSDate+INF.h"; sourceTree = "<group>"; };
+		DC9CB4FD1299BA3F00F72D93 /* NSDate+INF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDate+INF.m"; path = "src/NSDate+INF.m"; sourceTree = "<group>"; };
+		DC9CB5041299BAC600F72D93 /* NSString+INF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+INF.h"; path = "src/NSString+INF.h"; sourceTree = "<group>"; };
+		DC9CB5051299BAC600F72D93 /* NSString+INF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSString+INF.m"; path = "src/NSString+INF.m"; sourceTree = "<group>"; };
+		DC9CB5091299BB0400F72D93 /* NSArray+INF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+INF.h"; path = "src/NSArray+INF.h"; sourceTree = "<group>"; };
+		DC9CB50A1299BB0400F72D93 /* NSArray+INF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray+INF.m"; path = "src/NSArray+INF.m"; sourceTree = "<group>"; };
+		DC9CB5301299C37500F72D93 /* array_spec.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; name = array_spec.rb; path = tests/array_spec.rb; sourceTree = "<group>"; };
+		DC9CB5641299CE3D00F72D93 /* INFoundation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = INFoundation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC9CB5651299CE3D00F72D93 /* INFoundation-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "INFoundation-Info.plist"; sourceTree = "<group>"; };
+		DC9CB57A129A2CDD00F72D93 /* INFoundation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = INFoundation.h; path = src/INFoundation.h; sourceTree = "<group>"; };
+		DC9CB5A5129A31F200F72D93 /* Macros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Macros.h; path = src/Macros.h; sourceTree = "<group>"; };
+		DCA750D51291C97E009662F2 /* Mac OS X Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mac OS X Tests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DCA750D71291C97E009662F2 /* Mac OS X Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Mac OS X Tests-Info.plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DC9CB5621299CE3D00F72D93 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DCA750D21291C97E009662F2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DC9CB4FB1299B9D700F72D93 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				DC9CB5091299BB0400F72D93 /* NSArray+INF.h */,
+				DC9CB50A1299BB0400F72D93 /* NSArray+INF.m */,
+				DC9CB4FC1299BA3F00F72D93 /* NSDate+INF.h */,
+				DC9CB4FD1299BA3F00F72D93 /* NSDate+INF.m */,
+				DC9CB5041299BAC600F72D93 /* NSString+INF.h */,
+				DC9CB5051299BAC600F72D93 /* NSString+INF.m */,
+			);
+			name = Categories;
+			sourceTree = "<group>";
+		};
+		DCA750B31291BAC8009662F2 = {
+			isa = PBXGroup;
+			children = (
+				DC9CB57A129A2CDD00F72D93 /* INFoundation.h */,
+				DC9CB5A5129A31F200F72D93 /* Macros.h */,
+				DC9CB4FB1299B9D700F72D93 /* Categories */,
+				DCA750DE1291C9AB009662F2 /* Tests */,
+				DCA750D61291C97E009662F2 /* Products */,
+				DCA750D71291C97E009662F2 /* Mac OS X Tests-Info.plist */,
+				DC9CB5651299CE3D00F72D93 /* INFoundation-Info.plist */,
+			);
+			sourceTree = "<group>";
+		};
+		DCA750D61291C97E009662F2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DCA750D51291C97E009662F2 /* Mac OS X Tests.octest */,
+				DC9CB5641299CE3D00F72D93 /* INFoundation.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DCA750DE1291C9AB009662F2 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				DC9CB5301299C37500F72D93 /* array_spec.rb */,
+			);
+			name = Tests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		DC9CB55F1299CE3D00F72D93 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC9CB56A1299CF5B00F72D93 /* NSArray+INF.h in Headers */,
+				DC9CB56C1299CF5B00F72D93 /* NSDate+INF.h in Headers */,
+				DC9CB56E1299CF5B00F72D93 /* NSString+INF.h in Headers */,
+				DC9CB57B129A2CDD00F72D93 /* INFoundation.h in Headers */,
+				DC9CB5A6129A31F200F72D93 /* Macros.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		DC9CB5631299CE3D00F72D93 /* INFoundation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DC9CB5681299CE3E00F72D93 /* Build configuration list for PBXNativeTarget "INFoundation" */;
+			buildPhases = (
+				DC9CB55F1299CE3D00F72D93 /* Headers */,
+				DC9CB5601299CE3D00F72D93 /* Resources */,
+				DC9CB5611299CE3D00F72D93 /* Sources */,
+				DC9CB5621299CE3D00F72D93 /* Frameworks */,
+				DC9CB5C8129AD7A600F72D93 /* Generate Documentation */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = INFoundation;
+			productName = INFoundation;
+			productReference = DC9CB5641299CE3D00F72D93 /* INFoundation.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		DCA750D41291C97E009662F2 /* Mac OS X Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DCA750DB1291C97F009662F2 /* Build configuration list for PBXNativeTarget "Mac OS X Tests" */;
+			buildPhases = (
+				DCA750D01291C97E009662F2 /* Resources */,
+				DCA750D11291C97E009662F2 /* Sources */,
+				DCA750D21291C97E009662F2 /* Frameworks */,
+				DCA750D31291C97E009662F2 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DC9CB5741299CFBD00F72D93 /* PBXTargetDependency */,
+			);
+			name = "Mac OS X Tests";
+			productName = "Mac OS X Tests";
+			productReference = DCA750D51291C97E009662F2 /* Mac OS X Tests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DCA750B51291BAC8009662F2 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = DCA750B81291BAC8009662F2 /* Build configuration list for PBXProject "INFoundation" */;
+			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = DCA750B31291BAC8009662F2;
+			productRefGroup = DCA750D61291C97E009662F2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DCA750D41291C97E009662F2 /* Mac OS X Tests */,
+				DC9CB5631299CE3D00F72D93 /* INFoundation */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DC9CB5601299CE3D00F72D93 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DCA750D01291C97E009662F2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC9CB5311299C37500F72D93 /* array_spec.rb in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		DC9CB5C8129AD7A600F72D93 /* Generate Documentation */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Generate Documentation";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "#/Applications/Doxygen.app/Contents/Resources/doxygen Doxyfile";
+		};
+		DCA750D31291C97E009662F2 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /usr/local/bin/macruby;
+			shellScript = "# Run the unit tests in this test bundle.\n#\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n\n# Include the Bacon libraries\nrequire \"rubygems\"\nrequire \"bacon\"\n\n# Tell MacRuby where to find our framework\nENV['DYLD_FRAMEWORK_PATH'] = ENV['BUILT_PRODUCTS_DIR']\n\n# Setup Bacon to report on tests at the end\nBacon.summary_on_exit\n\n# Load all of the *_spec test files in the test bundle\nDir.glob('tests/*_spec.rb').each do |test_file|\n  require test_file\nend\n\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DC9CB5611299CE3D00F72D93 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC9CB56B1299CF5B00F72D93 /* NSArray+INF.m in Sources */,
+				DC9CB56D1299CF5B00F72D93 /* NSDate+INF.m in Sources */,
+				DC9CB56F1299CF5B00F72D93 /* NSString+INF.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DCA750D11291C97E009662F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC9CB4FE1299BA3F00F72D93 /* NSDate+INF.m in Sources */,
+				DC9CB5061299BAC600F72D93 /* NSString+INF.m in Sources */,
+				DC9CB50B1299BB0400F72D93 /* NSArray+INF.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DC9CB5741299CFBD00F72D93 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DC9CB5631299CE3D00F72D93 /* INFoundation */;
+			targetProxy = DC9CB5731299CFBD00F72D93 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		DC9CB5661299CE3E00F72D93 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_VERSION = A;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_ENABLE_OBJC_GC = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "INFoundation-Info.plist";
+				INSTALL_PATH = "$(HOME)/Library/Frameworks";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = INFoundation;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		DC9CB5671299CE3E00F72D93 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_VERSION = A;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_GC = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "INFoundation-Info.plist";
+				INSTALL_PATH = "$(HOME)/Library/Frameworks";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = INFoundation;
+				SDKROOT = macosx;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		DCA750B61291BAC8009662F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
+				COPY_PHASE_STRIP = NO;
+				VALID_ARCHS = "i386 x86_64";
+			};
+			name = Debug;
+		};
+		DCA750B71291BAC8009662F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
+				COPY_PHASE_STRIP = YES;
+				VALID_ARCHS = "i386 x86_64";
+			};
+			name = Release;
+		};
+		DCA750D91291C97F009662F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/Cocoa.framework/Headers/Cocoa.h";
+				INFOPLIST_FILE = "Mac OS X Tests-Info.plist";
+				INSTALL_PATH = "$(USER_LIBRARY_DIR)/Bundles";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Cocoa,
+					"-framework",
+					SenTestingKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = "Mac OS X Tests";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		DCA750DA1291C97F009662F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_ENABLE_OBJC_GC = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/Cocoa.framework/Headers/Cocoa.h";
+				INFOPLIST_FILE = "Mac OS X Tests-Info.plist";
+				INSTALL_PATH = "$(USER_LIBRARY_DIR)/Bundles";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Cocoa,
+					"-framework",
+					SenTestingKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = "Mac OS X Tests";
+				VALID_ARCHS = "i386 x86_64";
+				WRAPPER_EXTENSION = octest;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DC9CB5681299CE3E00F72D93 /* Build configuration list for PBXNativeTarget "INFoundation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC9CB5661299CE3E00F72D93 /* Debug */,
+				DC9CB5671299CE3E00F72D93 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DCA750B81291BAC8009662F2 /* Build configuration list for PBXProject "INFoundation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DCA750B61291BAC8009662F2 /* Debug */,
+				DCA750B71291BAC8009662F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DCA750DB1291C97F009662F2 /* Build configuration list for PBXNativeTarget "Mac OS X Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DCA750D91291C97F009662F2 /* Debug */,
+				DCA750DA1291C97F009662F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DCA750B51291BAC8009662F2 /* Project object */;
+}

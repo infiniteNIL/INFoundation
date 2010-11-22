@@ -1,0 +1,547 @@
+TINFoundation
+v7
+r0
+t312141367.658123
+cCheck dependencies
+cSymLink /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/Current A
+cSymLink /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Resources Versions/Current/Resources
+cSymLink /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Headers Versions/Current/Headers
+cSymLink /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/INFoundation Versions/Current/INFoundation
+cProcessInfoPlistFile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Resources/Info.plist INFoundation-Info.plist
+cCpHeader build/Debug/INFoundation.framework/Versions/A/Headers/INFoundation.h src/INFoundation.h
+cProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dqtiwvwniccuumaandzkcsherlhv/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cprgjevnywezpwbdngskietqztmo/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSArray+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSDate+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSString+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation normal x86_64
+cCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSArray+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSDate+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSString+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation normal i386
+cCreateUniversalBinary /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/INFoundation normal "x86_64 i386"
+cPhaseScriptExecution "Generate Documentation" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Script-DC9CB5C8129AD7A600F72D93.sh
+cTouch /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C23BD2900000000000017ED
+t1277410601
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework
+t1290447479
+s204
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Headers
+t3
+s24
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/INFoundation
+t3
+s29
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Resources
+t3
+s26
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Headers/INFoundation.h
+t1290402433
+s240
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/INFoundation
+t1290447479
+s30956
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Resources/Info.plist
+t1290377301
+s673
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Resources/index.html
+t1290447438
+s532
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/Current
+t3
+s1
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation
+t1290447479
+s14572
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation.LinkFileList
+c000000004CE9985500000000000001B9
+t1290377301
+s441
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSArray+INF.o
+t1290447479
+s9392
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSDate+INF.o
+t1290377316
+s4720
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSString+INF.o
+t1290377316
+s4732
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation
+t1290447479
+s10200
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation.LinkFileList
+c000000004CE9985500000000000001BF
+t1290377301
+s447
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSArray+INF.o
+t1290447479
+s12428
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSDate+INF.o
+t1290377316
+s5412
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSString+INF.o
+t1290377316
+s5424
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Script-DC9CB5C8129AD7A600F72D93.sh
+c000000004CEAAEB70000000000000049
+t1290448567
+s73
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/doc/html/index.html
+c000000004CEAAA4E0000000000000214
+t1290447438
+s532
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/html/index.html
+c000000004CEAA0D60000000000000214
+t1290445014
+s532
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/INFoundation.h
+c000000004CE9FA7F00000000000000F0
+t1290402431
+s240
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.h
+c000000004CEAAA7500000000000006F3
+t1290447477
+s1779
+i<Foundation/Foundation.h>
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m
+c000000004CE9F9E80000000000000306
+t1290402280
+s774
+i"NSArray+INF.h"
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.h
+c000000004CE983140000000000000101
+t1290371860
+s257
+i<Foundation/Foundation.h>
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m
+c000000004CE98C9900000000000000C9
+t1290374297
+s201
+i"NSDate+INF.h"
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.h
+c000000004CE9836E0000000000000107
+t1290371950
+s263
+i<Foundation/Foundation.h>
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m
+c000000004CE98CA600000000000000CF
+t1290374310
+s207
+i"NSString+INF.h"
+
+N/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cprgjevnywezpwbdngskietqztmo/AppKit.h.gch
+t1290377315
+s56103952
+
+N/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dmdjvljccfppkfdaygtdlrjgtnck/AppKit.h.gch
+t2
+s0
+
+N/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dqtiwvwniccuumaandzkcsherlhv/AppKit.h.gch
+t1290377315
+s53523440
+
+N/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-glxtporaohakkodlbzpwyqvjqzwe/AppKit.h.gch
+t2
+s0
+
+NINFoundation-Info.plist
+c000000004CE996BD00000000000002BC
+t1290376893
+s700
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312141367#312141367#0(0"0(0#1#0"8650689632#0"0#
+
+CCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSArray+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312140278.855802
+e312140279.035037
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSArray+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m312140278#312140279#0(0"0(0#0#80"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m8646057952#1765"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-generated-files.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-own-target-headers.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-all-target-headers.hmap -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-project-headers.hmap -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources/i386 -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cprgjevnywezpwbdngskietqztmo/AppKit.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m -o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSArray+INF.o0#
+
+CCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSDate+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312070116.279404
+e312070116.423383
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSDate+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m312070116#312070116#0(0"0(0#0#79"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m8626913696#1763"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-generated-files.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-own-target-headers.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-all-target-headers.hmap -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-project-headers.hmap -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources/i386 -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cprgjevnywezpwbdngskietqztmo/AppKit.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m -o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSDate+INF.o0#
+
+CCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSString+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312070116.282606
+e312070116.432695
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSString+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m312070116#312070116#0(0"0(0#0#81"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m8625848128#1767"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-generated-files.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-own-target-headers.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-all-target-headers.hmap -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-project-headers.hmap -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources/i386 -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cprgjevnywezpwbdngskietqztmo/AppKit.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m -o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/NSString+INF.o0#
+
+CCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSArray+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312140278.854049
+e312140279.013183
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSArray+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m312140278#312140279#0(0"0(0#0#80"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m8647462176#1771"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-generated-files.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-own-target-headers.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-all-target-headers.hmap -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-project-headers.hmap -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources/x86_64 -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dqtiwvwniccuumaandzkcsherlhv/AppKit.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m -o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSArray+INF.o0#
+
+CCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSDate+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312070115.812445
+e312070116.280815
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSDate+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m312070115#312070116#0(0"0(0#0#79"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m8626342432#1769"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-generated-files.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-own-target-headers.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-all-target-headers.hmap -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-project-headers.hmap -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources/x86_64 -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dqtiwvwniccuumaandzkcsherlhv/AppKit.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m -o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSDate+INF.o0#
+
+CCompileC build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSString+INF.o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312070115.813977
+e312070116.281050
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSString+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m312070115#312070116#0(0"0(0#0#81"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m8629612960#1773"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-generated-files.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-own-target-headers.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-all-target-headers.hmap -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-project-headers.hmap -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources/x86_64 -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dqtiwvwniccuumaandzkcsherlhv/AppKit.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m -o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/NSString+INF.o0#
+
+CCpHeader build/Debug/INFoundation.framework/Versions/A/Headers/INFoundation.h src/INFoundation.h
+s312095232.960751
+e312095233.058882
+r1
+xCpHeader
+xbuild/Debug/INFoundation.framework/Versions/A/Headers/INFoundation.h
+xsrc/INFoundation.h
+lSLF07#2@23"Copy src/INFoundation.h312095232#312095233#0(0"0(0#0#81"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/INFoundation.h8652463488#431"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/INFoundation.h /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Headers0#
+
+CCpResource build/Debug/INFoundation.framework/Versions/A/Resources/index.html doc/html/index.html
+s312140238.402040
+e312140238.407599
+r1
+xCpResource
+xbuild/Debug/INFoundation.framework/Versions/A/Resources/index.html
+xdoc/html/index.html
+lSLF07#2@24"Copy doc/html/index.html312140238#312140238#0(0"0(0#0#82"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/doc/html/index.html8644735008#434"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/doc/html/index.html /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Resources0#
+
+CCpResource build/Debug/INFoundation.framework/Versions/A/Resources/index.html html/index.html
+s312137934.577918
+e312137934.583476
+r1
+xCpResource
+xbuild/Debug/INFoundation.framework/Versions/A/Resources/index.html
+xhtml/index.html
+lSLF07#2@20"Copy html/index.html312137934#312137934#0(0"0(0#0#78"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/html/index.html8630542496#430"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/html/index.html /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Resources0#
+
+CCreateUniversalBinary /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/INFoundation normal "x86_64 i386"
+s312140279.074035
+e312140279.077206
+r1
+xCreateUniversalBinary
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/INFoundation
+xnormal
+xx86_64 i386
+lSLF07#2@101"CreateUniversalBinary build/Debug/INFoundation.framework/Versions/A/INFoundation normal "x86_64 i386"312140279#312140279#0(0"0(0#0#74"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/x86_64 i3868661280256#520"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /usr/bin/lipo -create /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation -output /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/INFoundation0#
+
+CLd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation normal i386
+s312140279.035169
+e312140279.073927
+r1
+xLd
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation
+xnormal
+xi386
+lSLF07#2@150"Link /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation312140279#312140279#0(0"0(0#0#0"8616778880#894"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -filelist /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation.LinkFileList -install_name /Users/Rod/Library/Frameworks/INFoundation.framework/Versions/A/INFoundation -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -single_module -compatibility_version 1 -current_version 1 -o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation0#
+
+CLd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation normal x86_64
+s312140279.013350
+e312140279.060650
+r1
+xLd
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation
+xnormal
+xx86_64
+lSLF07#2@152"Link /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation312140279#312140279#0(0"0(0#0#0"8618845888#900"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -filelist /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation.LinkFileList -install_name /Users/Rod/Library/Frameworks/INFoundation.framework/Versions/A/INFoundation -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -single_module -compatibility_version 1 -current_version 1 -o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation0#
+
+CPhaseScriptExecution "Generate Documentation" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Script-DC9CB5C8129AD7A600F72D93.sh
+s312141367.645073
+e312141367.657971
+r1
+xPhaseScriptExecution
+xGenerate Documentation
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Script-DC9CB5C8129AD7A600F72D93.sh
+lSLF07#2@48"Run custom shell script 'Generate Documentation'312141367#312141367#0(0"0(0#0#0"8646157408#18404"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Rod    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "x86_64 i386"    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv BUILD_ROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug    setenv CACHE_ROOT /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug    setenv CONTENTS_FOLDER_PATH INFoundation.framework/Versions/A    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv CURRENT_VERSION Current    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH INFoundation.framework/Versions/A/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/INFoundation.dst    setenv DWARF_DSYM_FILE_NAME INFoundation.framework.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug    setenv DYLIB_COMPATIBILITY_VERSION 1    setenv DYLIB_CURRENT_VERSION 1    setenv DYLIB_INSTALL_NAME_BASE /Users/Rod/Library/Frameworks    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH INFoundation.framework/Versions/A/Resources/English.lproj    setenv EXECUTABLE_FOLDER_PATH INFoundation.framework/Versions/A    setenv EXECUTABLE_NAME INFoundation    setenv EXECUTABLE_PATH INFoundation.framework/Versions/A/INFoundation    setenv FILE_LIST /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH INFoundation.framework/Versions/A/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME INFoundation.framework    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_ENABLE_OBJC_GC supported    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_MODEL_TUNING G5    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include\" "    setenv ICONV /usr/bin/iconv    setenv INFKIT_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFKit    setenv INFOPLISTSTRINGS_PATH INFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE INFoundation-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH INFoundation.framework/Versions/A/Resources/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/INFoundation.dst/Users/Rod/Library/Frameworks    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Rod    setenv INSTALL_PATH /Users/Rod/Library/Frameworks    setenv INSTALL_ROOT /tmp/INFoundation.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH INFoundation.framework/Versions/A/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DYLIB_INSTALL_NAME /Users/Rod/Library/Frameworks/INFoundation.framework/Versions/A/INFoundation    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation.LinkFileList    setenv LINK_FILE_LIST_normal_x86_64 /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH INFoundation.framework/Versions/A/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_dylib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1065    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0605    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal    setenv OBJROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-framework Foundation -framework AppKit"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.framework    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH INFoundation.framework/Versions/A/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/PkgInfo    setenv PKGINFO_PATH INFoundation.framework/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2423    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH INFoundation.framework/Versions/A/Resources    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH INFoundation.framework/Versions/A/PrivateHeaders    setenv PRODUCT_NAME INFoundation    setenv PRODUCT_SETTINGS_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/INFoundation-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.framework    setenv PROFILING_CODE NO    setenv PROJECT INFoundation    setenv PROJECT_DERIVED_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/DerivedSources    setenv PROJECT_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv PROJECT_FILE_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/INFoundation.xcodeproj    setenv PROJECT_NAME INFoundation    setenv PROJECT_TEMP_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build    setenv PUBLIC_HEADERS_FOLDER_PATH INFoundation.framework/Versions/A/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH INFoundation.framework/Versions/A/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_NAME macosx10.6    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH INFoundation.framework/Versions/A/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH INFoundation.framework/Versions/A/Resources    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv SRCROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SYMBOL_REPOSITORY_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/SymbolRepositories    setenv SYMROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME INFoundation    setenv TARGET_BUILD_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug    setenv TARGET_NAME INFoundation    setenv TARGET_TEMP_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build    setenv TEMP_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build    setenv TEMP_FILES_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build    setenv TEMP_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build    setenv TEMP_ROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv THIRDPARTY_IPHONE_DIR /Developer/ThirdPartyCode/iPhoneOS    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH INFoundation.framework/Versions/A/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER Rod    setenv USER_APPS_DIR /Users/Rod/Applications    setenv USER_LIBRARY_DIR /Users/Rod/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH INFoundation.framework/Versions/A/Resources/version.plist    setenv VERSIONS_FOLDER_PATH INFoundation.framework/Versions    setenv VERSION_INFO_BUILDER Rod    setenv VERSION_INFO_FILE INFoundation_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:INFoundation  PROJECT:INFoundation-\""    setenv WRAPPER_EXTENSION framework    setenv WRAPPER_NAME INFoundation.framework    setenv WRAPPER_SUFFIX .framework    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Script-DC9CB5C8129AD7A600F72D93.sh0#
+
+CPhaseScriptExecution "Run Script" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Script-DC9CB5C8129AD7A600F72D93.sh
+s312137934.791263
+e312137934.953057
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Script-DC9CB5C8129AD7A600F72D93.sh
+oSearching for include files...
+oSearching for example files...
+oSearching for images...
+oSearching for dot files...
+oSearching for msc files...
+oSearching for files to exclude
+oSearching for files to process...
+oSearching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src
+oSearching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/collections
+oSearching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/data
+oSearching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/strings
+oReading and parsing tag files
+oPreprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/INFoundation.h...
+oParsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/INFoundation.h...
+oPreprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/Macros.h...
+oParsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/Macros.h...
+oPreprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.h...
+oParsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.h...
+oPreprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m...
+oParsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m...
+oPreprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.h...
+oParsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.h...
+oPreprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m...
+oParsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m...
+oPreprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.h...
+oParsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.h...
+oPreprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m...
+oParsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m...
+oBuilding group list...
+oBuilding directory list...
+oBuilding namespace list...
+oBuilding file list...
+oBuilding class list...
+oAssociating documentation with classes...
+oComputing nesting relations for classes...
+oBuilding example list...
+oSearching for enumerations...
+oSearching for documented typedefs...
+oSearching for members imported via using declarations...
+oSearching for included using directives...
+oSearching for documented variables...
+oBuilding member list...
+oSearching for friends...
+oSearching for documented defines...
+oComputing class inheritance relations...
+oComputing class usage relations...
+oFlushing cached template relations that have become invalid...
+oCreating members for template instances...
+oComputing class relations...
+oAdd enum values to enums...
+oSearching for member function documentation...
+oBuilding page list...
+oSearch for main page...
+oComputing page relations...
+oDetermining the scope of groups...
+oSorting lists...
+oFreeing entry tree
+oDetermining which enums are documented
+oComputing member relations...
+oBuilding full member lists recursively...
+oAdding members to member groups.
+oComputing member references...
+oInheriting documentation...
+oGenerating disk names...
+oAdding source references...
+oAdding xrefitems...
+oSorting member lists...
+oCounting data structures...
+oResolving user defined references...
+oFinding anchors and sections in the documentation...
+oCombining using relations...
+oAdding members to index pages...
+oGenerating style sheet...
+oGenerating index page...
+oGenerating page index...
+oGenerating example documentation...
+oGenerating file sources...
+oGenerating code for file src/INFoundation.h...
+oGenerating code for file src/Macros.h...
+oGenerating code for file src/NSArray+INF.h...
+oGenerating code for file src/NSDate+INF.h...
+oGenerating code for file src/NSString+INF.h...
+oGenerating file documentation...
+oGenerating docs for file src/INFoundation.h...
+oGenerating docs for file src/Macros.h...
+oGenerating docs for file src/NSArray+INF.h...
+oGenerating docs for file src/NSArray+INF.m...
+oGenerating docs for file src/NSDate+INF.h...
+oGenerating docs for file src/NSDate+INF.m...
+oGenerating docs for file src/NSString+INF.h...
+oGenerating docs for file src/NSString+INF.m...
+oGenerating page documentation...
+oGenerating group documentation...
+oGenerating group index...
+oGenerating class documentation...
+oGenerating annotated compound index...
+oGenerating alphabetical compound index...
+oGenerating hierarchical class index...
+oGenerating member index...
+oGenerating docs for compound NSArray...
+oGenerating docs for compound NSDate...
+oGenerating docs for compound NSString...
+oGenerating namespace index...
+oGenerating namespace member index...
+oGenerating graph info page...
+oGenerating file index...
+oGenerating example index...
+oGenerating file member index...
+ofinalizing index lists...
+ofinished...
+lSLF07#2@36"Run custom shell script 'Run Script'312137934#312137934#0(5021"Searching for include files...Searching for example files...Searching for images...Searching for dot files...Searching for msc files...Searching for files to excludeSearching for files to process...Searching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/srcSearching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/collectionsSearching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/dataSearching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/stringsReading and parsing tag filesPreprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/INFoundation.h...Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/INFoundation.h...Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/Macros.h...Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/Macros.h...Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.h...Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.h...Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m...Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m...Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.h...Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.h...Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m...Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m...Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.h...Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.h...Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m...Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m...Building group list...Building directory list...Building namespace list...Building file list...Building class list...Associating documentation with classes...Computing nesting relations for classes...Building example list...Searching for enumerations...Searching for documented typedefs...Searching for members imported via using declarations...Searching for included using directives...Searching for documented variables...Building member list...Searching for friends...Searching for documented defines...Computing class inheritance relations...Computing class usage relations...Flushing cached template relations that have become invalid...Creating members for template instances...Computing class relations...Add enum values to enums...Searching for member function documentation...Building page list...Search for main page...Computing page relations...Determining the scope of groups...Sorting lists...Freeing entry treeDetermining which enums are documentedComputing member relations...Building full member lists recursively...Adding members to member groups.Computing member references...Inheriting documentation...Generating disk names...Adding source references...Adding xrefitems...Sorting member lists...Counting data structures...Resolving user defined references...Finding anchors and sections in the documentation...Combining using relations...Adding members to index pages...Generating style sheet...Generating index page...Generating page index...Generating example documentation...Generating file sources...Generating code for file src/INFoundation.h...Generating code for file src/Macros.h...Generating code for file src/NSArray+INF.h...Generating code for file src/NSDate+INF.h...Generating code for file src/NSString+INF.h...Generating file documentation...Generating docs for file src/INFoundation.h...Generating docs for file src/Macros.h...Generating docs for file src/NSArray+INF.h...Generating docs for file src/NSArray+INF.m...Generating docs for file src/NSDate+INF.h...Generating docs for file src/NSDate+INF.m...Generating docs for file src/NSString+INF.h...Generating docs for file src/NSString+INF.m...Generating page documentation...Generating group documentation...Generating group index...Generating class documentation...Generating annotated compound index...Generating alphabetical compound index...Generating hierarchical class index...Generating member index...Generating docs for compound NSArray...Generating docs for compound NSDate...Generating docs for compound NSString...Generating namespace index...Generating namespace member index...Generating graph info page...Generating file index...Generating example index...Generating file member index...finalizing index lists...finished...110(13@31"Searching for include files...312137934#0#31#0(1@0"0(13@31"Searching for example files...312137934#31#31#0(1@0"0(13@24"Searching for images...312137934#62#24#0(1@0"0(13@27"Searching for dot files...312137934#86#27#0(1@0"0(13@27"Searching for msc files...312137934#113#27#0(1@0"0(13@31"Searching for files to exclude312137934#140#31#0(1@0"0(13@34"Searching for files to process...312137934#171#34#0(1@0"0(13@100"Searching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src312137934#205#100#0(1@0"0(13@112"Searching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/collections312137934#305#112#0(1@0"0(13@105"Searching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/data312137934#417#105#0(1@0"0(13@108"Searching for files in directory /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/strings312137934#522#108#0(1@0"0(13@30"Reading and parsing tag files312137934#630#30#0(1@0"0(13@99"Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/INFoundation.h...312137934#660#99#0(1@0"0(13@98"Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/INFoundation.h...312137934#759#98#0(1@0"0(13@93"Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/Macros.h...312137934#857#93#0(1@0"0(13@92"Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/Macros.h...312137934#950#92#0(1@0"0(13@98"Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.h...312137934#1042#98#0(1@0"0(13@97"Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.h...312137934#1140#97#0(1@0"0(13@98"Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m...312137934#1237#98#0(1@0"0(13@97"Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m...312137934#1335#97#0(1@0"0(13@97"Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.h...312137934#1432#97#0(1@0"0(13@96"Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.h...312137934#1529#96#0(1@0"0(13@97"Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m...312137934#1625#97#0(1@0"0(13@96"Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m...312137934#1722#96#0(1@0"0(13@99"Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.h...312137934#1818#99#0(1@0"0(13@98"Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.h...312137934#1917#98#0(1@0"0(13@99"Preprocessing /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m...312137934#2015#99#0(1@0"0(13@98"Parsing file /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m...312137934#2114#98#0(1@0"0(13@23"Building group list...312137934#2212#23#0(1@0"0(13@27"Building directory list...312137934#2235#27#0(1@0"0(13@27"Building namespace list...312137934#2262#27#0(1@0"0(13@22"Building file list...312137934#2289#22#0(1@0"0(13@23"Building class list...312137934#2311#23#0(1@0"0(13@42"Associating documentation with classes...312137934#2334#42#0(1@0"0(13@43"Computing nesting relations for classes...312137934#2376#43#0(1@0"0(13@25"Building example list...312137934#2419#25#0(1@0"0(13@30"Searching for enumerations...312137934#2444#30#0(1@0"0(13@37"Searching for documented typedefs...312137934#2474#37#0(1@0"0(13@57"Searching for members imported via using declarations...312137934#2511#57#0(1@0"0(13@43"Searching for included using directives...312137934#2568#43#0(1@0"0(13@38"Searching for documented variables...312137934#2611#38#0(1@0"0(13@24"Building member list...312137934#2649#24#0(1@0"0(13@25"Searching for friends...312137934#2673#25#0(1@0"0(13@36"Searching for documented defines...312137934#2698#36#0(1@0"0(13@41"Computing class inheritance relations...312137934#2734#41#0(1@0"0(13@35"Computing class usage relations...312137934#2775#35#0(1@0"0(13@63"Flushing cached template relations that have become invalid...312137934#2810#63#0(1@0"0(13@43"Creating members for template instances...312137934#2873#43#0(1@0"0(13@29"Computing class relations...312137934#2916#29#0(1@0"0(13@28"Add enum values to enums...312137934#2945#28#0(1@0"0(13@47"Searching for member function documentation...312137934#2973#47#0(1@0"0(13@22"Building page list...312137934#3020#22#0(1@0"0(13@24"Search for main page...312137934#3042#24#0(1@0"0(13@28"Computing page relations...312137934#3066#28#0(1@0"0(13@35"Determining the scope of groups...312137934#3094#35#0(1@0"0(13@17"Sorting lists...312137934#3129#17#0(1@0"0(13@19"Freeing entry tree312137934#3146#19#0(1@0"0(13@39"Determining which enums are documented312137934#3165#39#0(1@0"0(13@30"Computing member relations...312137934#3204#30#0(1@0"0(13@42"Building full member lists recursively...312137934#3234#42#0(1@0"0(13@33"Adding members to member groups.312137934#3276#33#0(1@0"0(13@31"Computing member references...312137934#3309#31#0(1@0"0(13@28"Inheriting documentation...312137934#3340#28#0(1@0"0(13@25"Generating disk names...312137934#3368#25#0(1@0"0(13@28"Adding source references...312137934#3393#28#0(1@0"0(13@20"Adding xrefitems...312137934#3421#20#0(1@0"0(13@24"Sorting member lists...312137934#3441#24#0(1@0"0(13@28"Counting data structures...312137934#3465#28#0(1@0"0(13@37"Resolving user defined references...312137934#3493#37#0(1@0"0(13@53"Finding anchors and sections in the documentation...312137934#3530#53#0(1@0"0(13@29"Combining using relations...312137934#3583#29#0(1@0"0(13@33"Adding members to index pages...312137934#3612#33#0(1@0"0(13@26"Generating style sheet...312137934#3645#26#0(1@0"0(13@25"Generating index page...312137934#3671#25#0(1@0"0(13@25"Generating page index...312137934#3696#25#0(1@0"0(13@36"Generating example documentation...312137934#3721#36#0(1@0"0(13@27"Generating file sources...312137934#3757#27#0(1@0"0(13@47"Generating code for file src/INFoundation.h...312137934#3784#47#0(1@0"0(13@41"Generating code for file src/Macros.h...312137934#3831#41#0(1@0"0(13@46"Generating code for file src/NSArray+INF.h...312137934#3872#46#0(1@0"0(13@45"Generating code for file src/NSDate+INF.h...312137934#3918#45#0(1@0"0(13@47"Generating code for file src/NSString+INF.h...312137934#3963#47#0(1@0"0(13@33"Generating file documentation...312137934#4010#33#0(1@0"0(13@47"Generating docs for file src/INFoundation.h...312137934#4043#47#0(1@0"0(13@41"Generating docs for file src/Macros.h...312137934#4090#41#0(1@0"0(13@46"Generating docs for file src/NSArray+INF.h...312137934#4131#46#0(1@0"0(13@46"Generating docs for file src/NSArray+INF.m...312137934#4177#46#0(1@0"0(13@45"Generating docs for file src/NSDate+INF.h...312137934#4223#45#0(1@0"0(13@45"Generating docs for file src/NSDate+INF.m...312137934#4268#45#0(1@0"0(13@47"Generating docs for file src/NSString+INF.h...312137934#4313#47#0(1@0"0(13@47"Generating docs for file src/NSString+INF.m...312137934#4360#47#0(1@0"0(13@33"Generating page documentation...312137934#4407#33#0(1@0"0(13@34"Generating group documentation...312137934#4440#34#0(1@0"0(13@26"Generating group index...312137934#4474#26#0(1@0"0(13@34"Generating class documentation...312137934#4500#34#0(1@0"0(13@39"Generating annotated compound index...312137934#4534#39#0(1@0"0(13@42"Generating alphabetical compound index...312137934#4573#42#0(1@0"0(13@39"Generating hierarchical class index...312137934#4615#39#0(1@0"0(13@27"Generating member index...312137934#4654#27#0(1@0"0(13@40"Generating docs for compound NSArray...312137934#4681#40#0(1@0"0(13@39"Generating docs for compound NSDate...312137934#4721#39#0(1@0"0(13@41"Generating docs for compound NSString...312137934#4760#41#0(1@0"0(13@30"Generating namespace index...312137934#4801#30#0(1@0"0(13@37"Generating namespace member index...312137934#4831#37#0(1@0"0(13@30"Generating graph info page...312137934#4868#30#0(1@0"0(13@25"Generating file index...312137934#4898#25#0(1@0"0(13@28"Generating example index...312137934#4923#28#0(1@0"0(13@32"Generating file member index...312137934#4951#32#0(1@0"0(13@26"finalizing index lists...312137934#4983#26#0(1@0"0(13@12"finished...312137934#5009#12#0(1@0"0(0#0#0"8660109664#18404"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Rod    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "x86_64 i386"    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv BUILD_ROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug    setenv CACHE_ROOT /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug    setenv CONTENTS_FOLDER_PATH INFoundation.framework/Versions/A    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv CURRENT_VERSION Current    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH INFoundation.framework/Versions/A/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/INFoundation.dst    setenv DWARF_DSYM_FILE_NAME INFoundation.framework.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug    setenv DYLIB_COMPATIBILITY_VERSION 1    setenv DYLIB_CURRENT_VERSION 1    setenv DYLIB_INSTALL_NAME_BASE /Users/Rod/Library/Frameworks    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH INFoundation.framework/Versions/A/Resources/English.lproj    setenv EXECUTABLE_FOLDER_PATH INFoundation.framework/Versions/A    setenv EXECUTABLE_NAME INFoundation    setenv EXECUTABLE_PATH INFoundation.framework/Versions/A/INFoundation    setenv FILE_LIST /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH INFoundation.framework/Versions/A/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME INFoundation.framework    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_ENABLE_OBJC_GC supported    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_MODEL_TUNING G5    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include\" "    setenv ICONV /usr/bin/iconv    setenv INFKIT_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFKit    setenv INFOPLISTSTRINGS_PATH INFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE INFoundation-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH INFoundation.framework/Versions/A/Resources/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/INFoundation.dst/Users/Rod/Library/Frameworks    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Rod    setenv INSTALL_PATH /Users/Rod/Library/Frameworks    setenv INSTALL_ROOT /tmp/INFoundation.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH INFoundation.framework/Versions/A/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DYLIB_INSTALL_NAME /Users/Rod/Library/Frameworks/INFoundation.framework/Versions/A/INFoundation    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/i386/INFoundation.LinkFileList    setenv LINK_FILE_LIST_normal_x86_64 /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal/x86_64/INFoundation.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH INFoundation.framework/Versions/A/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_dylib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1065    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0605    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Objects-normal    setenv OBJROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-framework Foundation -framework AppKit"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.framework    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH INFoundation.framework/Versions/A/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/PkgInfo    setenv PKGINFO_PATH INFoundation.framework/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2423    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH INFoundation.framework/Versions/A/Resources    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH INFoundation.framework/Versions/A/PrivateHeaders    setenv PRODUCT_NAME INFoundation    setenv PRODUCT_SETTINGS_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/INFoundation-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.framework    setenv PROFILING_CODE NO    setenv PROJECT INFoundation    setenv PROJECT_DERIVED_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/DerivedSources    setenv PROJECT_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv PROJECT_FILE_PATH /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/INFoundation.xcodeproj    setenv PROJECT_NAME INFoundation    setenv PROJECT_TEMP_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build    setenv PUBLIC_HEADERS_FOLDER_PATH INFoundation.framework/Versions/A/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH INFoundation.framework/Versions/A/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_NAME macosx10.6    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH INFoundation.framework/Versions/A/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH INFoundation.framework/Versions/A/Resources    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv SRCROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SYMBOL_REPOSITORY_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/SymbolRepositories    setenv SYMROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME INFoundation    setenv TARGET_BUILD_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug    setenv TARGET_NAME INFoundation    setenv TARGET_TEMP_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build    setenv TEMP_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build    setenv TEMP_FILES_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build    setenv TEMP_FILE_DIR /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build    setenv TEMP_ROOT /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build    setenv THIRDPARTY_IPHONE_DIR /Developer/ThirdPartyCode/iPhoneOS    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH INFoundation.framework/Versions/A/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER Rod    setenv USER_APPS_DIR /Users/Rod/Applications    setenv USER_LIBRARY_DIR /Users/Rod/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH INFoundation.framework/Versions/A/Resources/version.plist    setenv VERSIONS_FOLDER_PATH INFoundation.framework/Versions    setenv VERSION_INFO_BUILDER Rod    setenv VERSION_INFO_FILE INFoundation_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:INFoundation  PROJECT:INFoundation-\""    setenv WRAPPER_EXTENSION framework    setenv WRAPPER_NAME INFoundation.framework    setenv WRAPPER_SUFFIX .framework    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/Script-DC9CB5C8129AD7A600F72D93.sh0#
+
+CProcessInfoPlistFile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Resources/Info.plist INFoundation-Info.plist
+s312070101.500101
+e312070101.503286
+r1
+xProcessInfoPlistFile
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Resources/Info.plist
+xINFoundation-Info.plist
+lSLF07#2@31"Process INFoundation-Info.plist312070101#312070101#0(0"0(0#0#86"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/INFoundation-Info.plist8626938528#294"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    builtin-infoPlistUtility INFoundation-Info.plist -expandbuildsettings -platform macosx -o /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/A/Resources/Info.plist0#
+
+CProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cprgjevnywezpwbdngskietqztmo/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+s312070101.504496
+e312070115.810270
+r1
+xProcessPCH
+x/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cprgjevnywezpwbdngskietqztmo/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h312070101#312070115#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8626484800#1630"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-generated-files.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-own-target-headers.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-all-target-headers.hmap -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-project-headers.hmap -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources/i386 -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cprgjevnywezpwbdngskietqztmo/AppKit.h.gch0#
+
+CProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dmdjvljccfppkfdaygtdlrjgtnck/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dqtiwvwniccuumaandzkcsherlhv/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312070101.503441
+e312070115.392166
+r1
+xProcessPCH
+x/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dqtiwvwniccuumaandzkcsherlhv/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h312070101#312070115#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h3419194681344878080#1634"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-generated-files.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-own-target-headers.hmap -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-all-target-headers.hmap -iquote /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/INFoundation-project-headers.hmap -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources/x86_64 -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/INFoundation.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dqtiwvwniccuumaandzkcsherlhv/AppKit.h.gch0#
+
+CProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-glxtporaohakkodlbzpwyqvjqzwe/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CSymLink /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Headers Versions/Current/Headers
+s312093972.396014
+e312093972.449496
+r1
+xSymLink
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Headers
+xVersions/Current/Headers
+lSLF07#2@113"Process /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Headers312093972#312093972#0(0"0(0#0#0"8630340320#217"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /bin/ln -sf Versions/Current/Headers /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Headers0#
+
+CSymLink /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/INFoundation Versions/Current/INFoundation
+s312070101.382246
+e312070101.499696
+r1
+xSymLink
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/INFoundation
+xVersions/Current/INFoundation
+lSLF07#2@118"Process /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/INFoundation312070101#312070101#0(0"0(0#0#0"8631854272#227"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /bin/ln -sf Versions/Current/INFoundation /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/INFoundation0#
+
+CSymLink /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Resources Versions/Current/Resources
+s312070101.381151
+e312070101.500027
+r1
+xSymLink
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Resources
+xVersions/Current/Resources
+lSLF07#2@115"Process /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Resources312070101#312070101#0(0"0(0#0#0"8632111040#221"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /bin/ln -sf Versions/Current/Resources /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Resources0#
+
+CSymLink /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/Current A
+s312070101.280923
+e312070101.499912
+r1
+xSymLink
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/Current
+xA
+lSLF07#2@122"Process /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/Current312070101#312070101#0(0"0(0#0#0"8614033376#203"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /bin/ln -sf A /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework/Versions/Current0#
+
+CTouch /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework
+s312140279.222138
+e312140279.225418
+r1
+xTouch
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework
+lSLF07#2@103"Touch /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework312140279#312140279#0(0"0(0#0#0"8652698400#190"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /usr/bin/touch -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/INFoundation.framework0#
+

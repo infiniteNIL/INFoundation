@@ -1,0 +1,610 @@
+TMac OS X Tests
+v7
+r0
+t312141368.709255
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/Info.plist" "Mac OS X Tests-Info.plist"
+cCpResource "build/Debug/Mac OS X Tests.octest/Contents/Resources/array_spec.rb" tests/array_spec.rb
+cProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-eemtucjoiolnovedwrvvfllxynos/Cocoa.h.gch /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-bhbkddjthgaikpejqsllaicqnjvd/Cocoa.h.gch /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSDate+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSString+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSArray+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/Mac OS X Tests" normal x86_64
+cCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSDate+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSString+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSArray+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests" normal i386
+cCreateUniversalBinary "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests" normal "x86_64 i386"
+cPhaseScriptExecution "Run Script" "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Script-DCA750D31291C97E009662F2.sh"
+cTouch "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest"
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+c000000004C885CA00000000000000E25
+t1284005024
+s3621
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+c000000004C885CA00000000000000701
+t1284005024
+s1793
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestCase.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+c000000004C885CA0000000000000084C
+t1284005024
+s2124
+i<Foundation/Foundation.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+c000000004C885CA0000000000000167B
+t1284005024
+s5755
+i<Foundation/NSObject.h>
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase_Macros.h>
+i<SenTestingKit/NSException_SenTestFailure.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+c000000004C885CA00000000000000860
+t1284005024
+s2144
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+c000000004C885CA00000000000007F41
+t1284005024
+s32577
+i<SenTestingKit/SenTestingUtilities.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+c000000004C885CA00000000000000947
+t1284005024
+s2375
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+c000000004C885CA000000000000006F0
+t1284005024
+s1776
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestObserver.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+c000000004C885CA000000000000006D0
+t1284005024
+s1744
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestObserver.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+c000000004C885CA000000000000009CF
+t1284005024
+s2511
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+c000000004C885CA00000000000000958
+t1284005024
+s2392
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+c000000004C885CA00000000000000A79
+t1284005024
+s2681
+i<Foundation/NSObject.h>
+i<SenTestingKit/SenTest.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+c000000004C885CA00000000000000CCF
+t1284005024
+s3279
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+c000000004C885CA000000000000007D3
+t1284005024
+s2003
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004C885CA000000000000008A5
+t1284005024
+s2213
+i<SenTestingKit/SenTestDefines.h>
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase.h>
+i<SenTestingKit/SenTestSuite.h>
+i<SenTestingKit/SenTestObserver.h>
+i<SenTestingKit/NSException_SenTestFailure.h>
+i<SenTestingKit/SenTestLog.h>
+i<SenTestingKit/SenTestDistributedNotifier.h>
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestSuiteRun.h>
+i<SenTestingKit/SenTestCaseRun.h>
+i<SenTestingKit/SenInterfaceTestCase.h>
+i<SenTestingKit/SenTestProbe.h>
+i<SenTestingKit/SenTestingUtilities.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+c000000004C885CA00000000000000C37
+t1284005024
+s3127
+i<Foundation/Foundation.h>
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004C23AA050000000000000EDE
+t1277405701
+s3806
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest
+t1290447480
+s102
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/Info.plist
+t1289851444
+s677
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests
+t1290447479
+s30932
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/Resources/array_spec.rb
+t1290401837
+s2168
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/Resources/infoundation_spec.rb
+t1289854934
+s557
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/BasicTests.o
+t1290371875
+s8164
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests
+t1290447479
+s14548
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests.LinkFileList
+c000000004CE9FBFE00000000000001BF
+t1290402814
+s447
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSArray+INF.o
+t1290447479
+s9200
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSDate+INF.o
+t1290374299
+s4656
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSString+INF.o
+t1290374311
+s4668
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/ppc/BasicTests.o
+t2
+s0
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/ppc/Mac OS X Tests
+t2
+s0
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/ppc/Mac OS X Tests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/BasicTests.o
+t1290371875
+s9860
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/Mac OS X Tests
+t1290447479
+s10160
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/Mac OS X Tests.LinkFileList
+c000000004CE9FBFE00000000000001C5
+t1290402814
+s453
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSArray+INF.o
+t1290447479
+s12244
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSDate+INF.o
+t1290374299
+s5316
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSString+INF.o
+t1290374311
+s5328
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/untitled.o
+t2
+s0
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Script-DCA750D31291C97E009662F2.sh
+c000000004CE19E5100000000000001DB
+t1289854545
+s475
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.h
+c000000004CEAAA7500000000000006F3
+t1290447477
+s1779
+i<Foundation/Foundation.h>
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m
+c000000004CE9F9E80000000000000306
+t1290402280
+s774
+i"NSArray+INF.h"
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.h
+c000000004CE983140000000000000101
+t1290371860
+s257
+i<Foundation/Foundation.h>
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m
+c000000004CE98C9900000000000000C9
+t1290374297
+s201
+i"NSDate+INF.h"
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.h
+c000000004CE9836E0000000000000107
+t1290371950
+s263
+i<Foundation/Foundation.h>
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m
+c000000004CE98CA600000000000000CF
+t1290374310
+s207
+i"NSString+INF.h"
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/untitled.h
+c000000004CE9832800000000000000D0
+t1290371880
+s208
+i<Cocoa/Cocoa.h>
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/untitled.m
+c000000004CE9832800000000000000C2
+t1290371880
+s194
+i"untitled.h"
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.h
+c000000004CE1929200000000000000E7
+t1289851538
+s231
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m
+c000000004CE19354000000000000012A
+t1289851732
+s298
+i"BasicTests.h"
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/array_spec.rb
+c000000004CE9F82C0000000000000878
+t1290401836
+s2168
+
+N/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/infoundation_spec.rb
+c000000004CE19FD5000000000000022D
+t1289854933
+s557
+
+N/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-bhbkddjthgaikpejqsllaicqnjvd/Cocoa.h.gch
+t1290371874
+s56776496
+
+N/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-eemtucjoiolnovedwrvvfllxynos/Cocoa.h.gch
+t1290371874
+s54187792
+
+N/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gfxkytvvdczfntejvloeltmpfvad/Cocoa.h.gch
+t2
+s0
+
+NMac OS X Tests-Info.plist
+c000000004CE191FE00000000000002BC
+t1289851390
+s700
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312141367#312141367#0(0"0(0#1#0"8646117024#0"0#
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/BasicTests.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312064674.689200
+e312064675.360315
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/BasicTests.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m312064674#312064675#0(0"0(0#0#81"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m8613056608#1735"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/i386" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-bhbkddjthgaikpejqsllaicqnjvd/Cocoa.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/BasicTests.o"0#
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSArray+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312140279.231944
+e312140279.405337
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSArray+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m312140279#312140279#0(0"0(0#0#80"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m8609016288#1735"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/i386" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-bhbkddjthgaikpejqsllaicqnjvd/Cocoa.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSArray+INF.o"0#
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSDate+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312067098.899912
+e312067099.044493
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSDate+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m312067098#312067099#0(0"0(0#0#79"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m8616796064#1733"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/i386" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-bhbkddjthgaikpejqsllaicqnjvd/Cocoa.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSDate+INF.o"0#
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSString+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312067111.292970
+e312067111.438717
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSString+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m312067111#312067111#0(0"0(0#0#81"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m8628797088#1737"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/i386" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-bhbkddjthgaikpejqsllaicqnjvd/Cocoa.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/NSString+INF.o"0#
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/untitled.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/ppc/BasicTests.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/BasicTests.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312064674.685693
+e312064675.353810
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/BasicTests.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m312064674#312064675#0(0"0(0#0#81"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m8609795296#1741"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/x86_64" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-eemtucjoiolnovedwrvvfllxynos/Cocoa.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/BasicTests.m -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/BasicTests.o"0#
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSArray+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312140279.230204
+e312140279.397815
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSArray+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m312140279#312140279#0(0"0(0#0#80"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m8613146560#1741"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/x86_64" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-eemtucjoiolnovedwrvvfllxynos/Cocoa.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSArray+INF.m -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSArray+INF.o"0#
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSDate+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312067098.482953
+e312067099.045588
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSDate+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m312067098#312067099#0(0"0(0#0#79"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m8628561792#1739"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/x86_64" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-eemtucjoiolnovedwrvvfllxynos/Cocoa.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSDate+INF.m -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSDate+INF.o"0#
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSString+INF.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312067111.124443
+e312067111.430947
+r1
+xCompileC
+xbuild/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSString+INF.o
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m312067111#312067111#0(0"0(0#0#81"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m8627354080#1743"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/x86_64" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -include /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-eemtucjoiolnovedwrvvfllxynos/Cocoa.h -c /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/NSString+INF.m -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/NSString+INF.o"0#
+
+CCompileC "build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/untitled.o" /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/src/untitled.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCpResource "build/Debug/Mac OS X Tests.octest/Contents/Resources/array_spec.rb" tests/array_spec.rb
+s312094637.038795
+e312094637.045097
+r1
+xCpResource
+xbuild/Debug/Mac OS X Tests.octest/Contents/Resources/array_spec.rb
+xtests/array_spec.rb
+lSLF07#2@24"Copy tests/array_spec.rb312094637#312094637#0(0"0(0#0#82"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/array_spec.rb8619955840#433"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/array_spec.rb "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/Resources"0#
+
+CCpResource "build/Debug/Mac OS X Tests.octest/Contents/Resources/infoundation_spec.rb" tests/infoundation_spec.rb
+s311547734.480935
+e311547734.487724
+r1
+xCpResource
+xbuild/Debug/Mac OS X Tests.octest/Contents/Resources/infoundation_spec.rb
+xtests/infoundation_spec.rb
+lSLF07#2@31"Copy tests/infoundation_spec.rb311547734#311547734#0(0"0(0#0#89"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/infoundation_spec.rb8690573696#440"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/tests/infoundation_spec.rb "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests" normal "x86_64 i386 ppc"
+r0
+
+CCreateUniversalBinary "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests" normal "x86_64 i386"
+s312140279.443242
+e312140279.446296
+r1
+xCreateUniversalBinary
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests
+xnormal
+xx86_64 i386
+lSLF07#2@108"CreateUniversalBinary "build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests" normal "x86_64 i386"312140279#312140279#0(0"0(0#0#74"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/x86_64 i3868658085312#539"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /usr/bin/lipo -create "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/Mac OS X Tests" "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests" -output "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests"0#
+
+CLd "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests" normal i386
+s311544532.944577
+e311544532.984099
+r1
+xLd
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests
+xnormal
+xi386
+lSLF07#2@131"Link /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests311544532#311544532#0(0"0(0#0#0"8689639648#655"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -L/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -filelist "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests.LinkFileList" -framework Cocoa -framework SenTestingKit -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/MacOS/Mac OS X Tests"0#
+
+CLd "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests" normal i386
+s312140279.405448
+e312140279.443148
+r1
+xLd
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests
+xnormal
+xi386
+lSLF07#2@154"Link /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests312140279#312140279#0(0"0(0#0#0"8660708768#678"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -L/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -filelist "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests.LinkFileList" -framework Cocoa -framework SenTestingKit -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/i386/Mac OS X Tests"0#
+
+CLd "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/ppc/Mac OS X Tests" normal ppc
+r0
+
+CLd "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/Mac OS X Tests" normal x86_64
+s312140279.397920
+e312140279.440759
+r1
+xLd
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/Mac OS X Tests
+xnormal
+xx86_64
+lSLF07#2@156"Link /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/Mac OS X Tests312140279#312140279#0(0"0(0#0#0"8661288352#684"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -L/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -filelist "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/Mac OS X Tests.LinkFileList" -framework Cocoa -framework SenTestingKit -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Objects-normal/x86_64/Mac OS X Tests"0#
+
+CPhaseScriptExecution "Run Script" "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Script-DCA750D31291C97E009662F2.sh"
+s312141367.663485
+e312141368.709032
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Script-DCA750D31291C97E009662F2.sh
+oNSArray at: tests
+o- should return the object at the index
+o- should return nil if the index is invalid
+o
+oNSArray first tests
+o- should return the first object in the array
+o- should return nil if there are no objects in the array
+o
+oNSArray second tests
+o- should return the second object in the array
+o- should return nil if there are less than 2 objects in the array
+o
+oNSArray third tests
+o- should return the third object in the array
+o- should return nil if there are less than 3 objects in the array
+o
+oNSArray nth tests
+o- should return the second object in the array
+o- should return nil if there are less than 2 objects in the array
+o
+oNSArray last tests
+o- should return the last object in the array
+o- should return nil if there are less than 0 objects in the array
+o
+oNSArray rest tests
+o- should return the second object in the array
+o- should return nil if there are no more objects in the array
+o
+oNSArray empty tests
+o- should return false if there are objects in the array
+o- should return true if there are no objects in the array
+o
+o16 specifications (16 requirements), 0 failures, 0 errors
+lSLF07#2@36"Run custom shell script 'Run Script'312141367#312141368#0(1080"NSArray at: tests- should return the object at the index- should return nil if the index is invalidNSArray first tests- should return the first object in the array- should return nil if there are no objects in the arrayNSArray second tests- should return the second object in the array- should return nil if there are less than 2 objects in the arrayNSArray third tests- should return the third object in the array- should return nil if there are less than 3 objects in the arrayNSArray nth tests- should return the second object in the array- should return nil if there are less than 2 objects in the arrayNSArray last tests- should return the last object in the array- should return nil if there are less than 0 objects in the arrayNSArray rest tests- should return the second object in the array- should return nil if there are no more objects in the arrayNSArray empty tests- should return false if there are objects in the array- should return true if there are no objects in the array16 specifications (16 requirements), 0 failures, 0 errors25(13@18"NSArray at: tests312141368#0#18#0(1@0"0(13@40"- should return the object at the index312141368#18#40#0(1@0"0(13@44"- should return nil if the index is invalid312141368#58#44#0(1@0"0(13@20"NSArray first tests312141368#103#20#0(1@0"0(13@46"- should return the first object in the array312141368#123#46#0(1@0"0(13@57"- should return nil if there are no objects in the array312141368#169#57#0(1@0"0(13@21"NSArray second tests312141368#227#21#0(1@0"0(13@47"- should return the second object in the array312141368#248#47#0(1@0"0(13@66"- should return nil if there are less than 2 objects in the array312141368#295#66#0(1@0"0(13@20"NSArray third tests312141368#362#20#0(1@0"0(13@46"- should return the third object in the array312141368#382#46#0(1@0"0(13@66"- should return nil if there are less than 3 objects in the array312141368#428#66#0(1@0"0(13@18"NSArray nth tests312141368#495#18#0(1@0"0(13@47"- should return the second object in the array312141368#513#47#0(1@0"0(13@66"- should return nil if there are less than 2 objects in the array312141368#560#66#0(1@0"0(13@19"NSArray last tests312141368#627#19#0(1@0"0(13@45"- should return the last object in the array312141368#646#45#0(1@0"0(13@66"- should return nil if there are less than 0 objects in the array312141368#691#66#0(1@0"0(13@19"NSArray rest tests312141368#758#19#0(1@0"0(13@47"- should return the second object in the array312141368#777#47#0(1@0"0(13@62"- should return nil if there are no more objects in the array312141368#824#62#0(1@0"0(13@20"NSArray empty tests312141368#887#20#0(1@0"0(13@56"- should return false if there are objects in the array312141368#907#56#0(1@0"0(13@58"- should return true if there are no objects in the array312141368#963#58#0(1@0"0(13@58"16 specifications (16 requirements), 0 failures, 0 errors312141368#1022#58#0(1@0"0(0#0#0"8655492576#241"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /bin/sh -c "\"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Script-DCA750D31291C97E009662F2.sh\""0#
+
+CProcessInfoPlistFile "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/Info.plist" "Mac OS X Tests-Info.plist"
+s311544244.887336
+e311544244.893445
+r1
+xProcessInfoPlistFile
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/Info.plist
+xMac OS X Tests-Info.plist
+lSLF07#2@33"Process Mac OS X Tests-Info.plist311544244#311544244#0(0"0(0#0#88"/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/Mac OS X Tests-Info.plist8458375201517302784#287"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    builtin-infoPlistUtility "Mac OS X Tests-Info.plist" -expandbuildsettings -platform macosx -o "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-bhbkddjthgaikpejqsllaicqnjvd/Cocoa.h.gch /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h normal i386 objective-c com.apple.compilers.gcc.4_2
+s312064661.533865
+e312064674.501008
+r1
+xProcessPCH
+x/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-bhbkddjthgaikpejqsllaicqnjvd/Cocoa.h.gch
+x/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Precompile /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h312064661#312064675#0(0"0(0#0#58"/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h8604430624#1564"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/i386" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -c /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h -o /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-bhbkddjthgaikpejqsllaicqnjvd/Cocoa.h.gch0#
+
+CProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-eemtucjoiolnovedwrvvfllxynos/Cocoa.h.gch /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312064661.412316
+e312064674.685489
+r1
+xProcessPCH
+x/var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-eemtucjoiolnovedwrvvfllxynos/Cocoa.h.gch
+x/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Precompile /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h312064661#312064675#0(0"0(0#0#58"/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h3416950565360725504#1568"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -gdwarf-2 -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-generated-files.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-own-target-headers.hmap" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-all-target-headers.hmap" -iquote "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/Mac OS X Tests-project-headers.hmap" -F/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug -F/Developer/Library/Frameworks -I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/include "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources/x86_64" "-I/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/INFoundation.build/Debug/Mac OS X Tests.build/DerivedSources" -c /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h -o /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-eemtucjoiolnovedwrvvfllxynos/Cocoa.h.gch0#
+
+CProcessPCH /var/folders/My/My0bYXTdEiySoj3hYslalE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gfxkytvvdczfntejvloeltmpfvad/Cocoa.h.gch /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest"
+s312140280.500607
+e312140280.503277
+r1
+xTouch
+x/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest
+lSLF07#2@102"Touch /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest312140280#312140280#0(0"0(0#0#0"8660680992#191"    cd /Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation    /usr/bin/touch -c "/Users/Rod/Development/Projects/infiniteNIL/apple/INFoundation/build/Debug/Mac OS X Tests.octest"0#
+
